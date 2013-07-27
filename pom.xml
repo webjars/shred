@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>shred</artifactId>
-    <version>0.8.2</version>
+    <version>0.8.3-SNAPSHOT</version>
     <name>Shred</name>
     <description>WebJar for Shred</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/shred</url>
         <connection>scm:git:https://github.com/webjars/shred.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/shred.git</developerConnection>
-        <tag>shred-0.8.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
